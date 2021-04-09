@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dateformat": "^4.5.1",
+    "yahoo-finance": "^0.3.7"
+  }
+}
